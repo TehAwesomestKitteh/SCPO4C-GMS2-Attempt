@@ -1,0 +1,8 @@
+TODO:
+- Improve Hostile Unit stuff (Movement, function)
+- Make unit damage unique/relevant (currently obj_Zone controls damage)
+- Add the logic to the advantage bar of the Zone
+- Improve Zone resolving (clicks, shape, connection, etc.)
+- Graphicalize Squads Display (obj_control) [fix the bullshit in squad cataloging
+
+Notes:

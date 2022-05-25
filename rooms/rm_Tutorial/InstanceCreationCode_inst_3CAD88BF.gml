@@ -1,0 +1,1 @@
+array_push(destination_zones, inst_6D19824B);
